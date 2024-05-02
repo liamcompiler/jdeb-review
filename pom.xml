@@ -27,6 +27,8 @@
     require additional native tools installed.
   </description>
   <url>http://github.com/tcurdt/jdeb</url>
+  <url>http://github.com/db/1</url>
+  <url>http://github.com/db/2</url>
   <licenses>
     <license>
       <name>Apache License 2</name>
